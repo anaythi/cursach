@@ -37,7 +37,7 @@ int massiv()
 int main()
 {
 	setlocale(LC_ALL, "Russian");
-	//hui();
-	//zalupa();
+	//menu();
+	//massiv();
 	return 0;
 }
