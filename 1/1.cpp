@@ -7,7 +7,7 @@
 #include <ctime>
 using namespace std;
 /*
-int hui()
+int menu()
 {
 const int x = 4;
 int i = 0, z = 0;
@@ -20,7 +20,7 @@ return 0;
 }
 */
 /*
-int zalupa()
+int massiv()
 {
 	int x[3] = {};
 
